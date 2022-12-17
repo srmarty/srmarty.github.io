@@ -2,10 +2,11 @@ import React from 'react';
 import { Route, Switch } from 'react-router-dom';
 import { ReactRouterExample, AboutMe, Resume, Portfolio } from './pages'
 import Sidebar from './components/Sidebar';
+import './AppStyle.css';
 
 function App() {
   return (
-    <div>
+    <div className="background">
       <Sidebar />
       <ReactRouterExample>
         <Switch>

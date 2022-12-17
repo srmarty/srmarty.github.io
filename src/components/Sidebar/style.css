@@ -16,6 +16,8 @@
     font-size: 25px;
     color: black;
     display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
 }
 
 .other {
@@ -24,4 +26,7 @@
     font-size: 25px;
     color: black;
     display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
 }
+
