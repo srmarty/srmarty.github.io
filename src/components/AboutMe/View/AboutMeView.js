@@ -7,9 +7,9 @@ export default class AboutMeView extends React.Component {
         return (
             <div>
                 <div className="profile-container">
-                    <img className="profile" src={profilePicture} alt="Sarah Martin"></img>
+                    <img className="profile" src={profilePicture} alt="gyoshuku"></img>
                 </div>
-                <h1 className="name">Sarah R. Martin</h1>
+                <h1 className="name">gyoshuku</h1>
             </div>
         );
     }
